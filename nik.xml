@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+
+ <book>
+
+  <title>The Great Gatsby</title>
+
+  <author>F. Scott Fitzgerald</author>
+
+  <publisher>Charles Scribner's Sons</publisher>
+
+  <year>1925</year>
+
+ </book>
+
+ <book>
+
+  <title>To Kill a Mockingbird</title>
+ 
+  <author>Harper Lee</author>
+
+  <publisher>J. B. Lippincott &amp; Co.</publisher>
+
+  <year>1960</year>
+
+ </book>
+
+ <book>
+
+  <title>1984</title>
+
+  <author>George Orwell</author>
+
+  <publisher>Secker &amp; Warburg</publisher>
+
+  <year>1949</year>
+
+ </book>
+
+</library>
